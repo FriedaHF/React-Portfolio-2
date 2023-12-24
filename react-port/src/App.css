@@ -1,0 +1,36 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  background-color: darkred;
+  color: white;
+}
+
+h1 {
+  display: flex;
+  align-items: end;
+  max-height: fit-content;
+  max-width: fit-content;
+  color: aliceblue;
+}
+
+h2{
+  color: aliceblue;
+}
+h3{
+  color: aliceblue;
+}
+
+p {
+  display: flex;
+  border: solid darkred;
+  max-width: fit-content;
+  color: aliceblue;
+}
+
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
